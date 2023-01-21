@@ -25,3 +25,20 @@ a {
     text-decoration: none;
     color: #0077c9;
 }
+#content {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+}
+
+#content h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#content p {
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 10px;
+}
